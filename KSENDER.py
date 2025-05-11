@@ -7,13 +7,13 @@ from aiogram.filters import Command
 from aiogram import Router
 
 # ====== CONFIG ======
-DISCORD_TOKEN = "MTMzNTMyMTUxNDY1MTY4NTA0Ng.GWkU74.ABzsRkX1W7PPUs9muTumy3Y3hT7Pb4LgNHmF3I"
-TELEGRAM_TOKEN = "7919818538:AAEIjEwU2vQOplhoV_S2FXqfEj5pWNtJOi0"
-DISCORD_GUILD_ID = 1139578692159414382  # ID вашего сервера Discord
-DISCORD_CHANNEL_ID = 1139591871820214293  # ID канала в Discord
-TELEGRAM_CHAT_ID = -1002315340645  # ID группы в Telegram
-ADMIN_ROLE_ID = 1325381399708176424  # ID роли для управления
-LOG_CHANNEL_ID = 1335322176827691058  # Канал для логов
+DISCORD_TOKEN = ""
+TELEGRAM_TOKEN = ""
+DISCORD_GUILD_ID =   # ID вашего сервера Discord
+DISCORD_CHANNEL_ID =   # ID канала в Discord
+TELEGRAM_CHAT_ID =   # ID группы в Telegram
+ADMIN_ROLE_ID =   # ID роли для управления
+LOG_CHANNEL_ID =   # Канал для логов
 
 message_map = {}  # {tg_message_id: discord_message_id, discord_message_id: tg_message_id}
 
